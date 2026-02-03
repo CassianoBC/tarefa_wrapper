@@ -3,7 +3,7 @@ public class ExercicioWrapper {
         int age = 22;
         System.out.println(age);
 
-        int age2 = Integer.valueOf(12);
+        Integer age2 = age;
         System.out.println(age2);
     }
 }
